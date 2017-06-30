@@ -1,0 +1,205 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uttham's Dialer portfolio2.com" resolutions="1x" timestamp="1498846156072">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3873115482" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="finale.avi" crc="333688542" seo="true" mt="1497160718000"/>
+    <file name="comp-1_1.gif" crc="380390892" seo="true" mt="1497803412000"/>
+    <file name="comp-1_1.avi" crc="4113713706" seo="true" mt="1497168563000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="untitled-3-crop-u1607.png" crc="183571567" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-3-01.png" crc="4145381632" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_1.png" crc="3989538346" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nexus5_1up.png" crc="3981137059" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="comp 1_1.gif" crc="380390892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="comp 1.gif" crc="4203973710" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wireframing-u1626.png" crc="33388062" ref="index"/>
+    <file name="003-grandfather.png" crc="4277724523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="001-pikachu.png" crc="4096966252" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 56-u1749.png" crc="20024753" ref="index"/>
+    <file name="group 29.png" crc="3966627687" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 58-u1813.png" crc="398116451" ref="index"/>
+    <file name="card.jpg" crc="3934353738" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="message copy.png" crc="506197058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="goldfish-crop-u700.jpg" crc="218686287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sea and clouds-crop-u2651.jpg" crc="267377686" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dots copy.png" crc="3961536458" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="search.png" crc="84510465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lines.png" crc="3811132510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ringtone .png" crc="4110984823" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="add reminder.png" crc="509748485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="theme management.png" crc="3925747890" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="voice record.png" crc="533205955" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="add.png" crc="3891964863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dialer settings.png" crc="3979832006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dialled.png" crc="4138444044" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hold.png" crc="4289386249" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mic.png" crc="3766257801" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mkups t1.png" crc="298198078" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="add reminder2.png" crc="528737173" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="favorite.png" crc="4156750660" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="block.png" crc="342334659" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="voice record2.png" crc="4042414543" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="settings.png" crc="3991702228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="message.png" crc="4086890868" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="missed.png" crc="345663627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="call copy 4.png" crc="4189869417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="search2.png" crc="3852129952" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard 22 copy 2.png" crc="442652820" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002-pirate.png" crc="4010646997" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="comp 1_12.gif" crc="322695522" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="swipe.gif" crc="371688150" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="speaker.png" crc="385101590" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="notification.png" crc="4011117864" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard 22 copy 3.png" crc="139701323" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="notification2.png" crc="372014114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mkups th2.png" crc="4070279443" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 357x355.jpg" crc="4274247584" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_1.png" crc="148521112" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-01.png" crc="4110192326" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-01.png" crc="500084956" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dialer copy.png" crc="4108853596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-9-01.png" crc="422077918" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="347784181" seo="true" mt="1498846113543" redirect="true"/>
+</manifest>
